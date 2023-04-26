@@ -1,2 +1,2 @@
 # puns.onefact.org
-puns
+*  one off
