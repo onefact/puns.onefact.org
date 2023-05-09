@@ -8,8 +8,17 @@ Example response from https://bing.com/chat:
 
 <img width="792" alt="image" src="https://user-images.githubusercontent.com/5317244/236971953-f69b52c5-5eb3-402c-ace7-e0dec0c3f788.png">
 
+## Direct link to prompt: 
 
-Example in bing.com/chat
+https://sl.bing.net/dA6J8PCdXDU
+
+This prompt requires the Microsoft Edge browser which can be installed using Homeberw (https://formulae.brew.sh/cask/microsoft-edge);
+
+1. Go to APplications, click on Terminal
+2. In the terminal, copy and paste the install command from https://brew.sh/
+3. Follow the instructions
+4. Install Microsoft Edge: `brew install --cask microsoft-edge`
+
 
 # puns.onefact.org
 * one off
