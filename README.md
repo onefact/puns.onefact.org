@@ -8,6 +8,9 @@ Example response from https://bing.com/chat:
 
 <img width="792" alt="image" src="https://user-images.githubusercontent.com/5317244/236971953-f69b52c5-5eb3-402c-ace7-e0dec0c3f788.png">
 
+## Prompt to generate more shortlinks to puns
+* TODO(@jaanli)
+
 ## Direct link to prompt: 
 
 https://sl.bing.net/dA6J8PCdXDU
